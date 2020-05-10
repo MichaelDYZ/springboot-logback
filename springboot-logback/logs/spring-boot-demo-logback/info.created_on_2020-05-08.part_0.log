@@ -1,0 +1,13 @@
+2020-05-08 15:24:02.571  INFO 16492 --- [main] com.dyz.logback.LogbackApplication       : Starting LogbackApplication on DESKTOP-5SQ6VDU with PID 16492 (F:\IdeaWareHouse\DYZ\springboot-logback\target\classes started by Administrator in F:\IdeaWareHouse\DYZ\springboot-logback)
+2020-05-08 15:24:02.579  INFO 16492 --- [main] com.dyz.logback.LogbackApplication       : No active profile set, falling back to default profiles: default
+2020-05-08 15:24:05.199  INFO 16492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-08 15:24:05.215  INFO 16492 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-08 15:24:05.216  INFO 16492 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-08 15:24:05.365  INFO 16492 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-08 15:24:05.365  INFO 16492 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2668 ms
+2020-05-08 15:24:05.654  INFO 16492 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-08 15:24:06.017  INFO 16492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-08 15:24:06.025  INFO 16492 --- [main] com.dyz.logback.LogbackApplication       : Started LogbackApplication in 4.895 seconds (JVM running for 9.51)
+2020-05-08 15:24:06.028  INFO 16492 --- [main] com.dyz.logback.LogbackApplication       : Spring boot启动初始化了 126 个 Bean
+2020-05-08 15:24:06.031  WARN 16492 --- [main] com.dyz.logback.LogbackApplication       : Spring boot启动初始化了 126 个 Bean
+2020-05-08 15:26:09.171  INFO 16492 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

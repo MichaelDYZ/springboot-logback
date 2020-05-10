@@ -1,0 +1,12 @@
+2020-05-08 15:24:06.031 ERROR 16492 --- [main] com.dyz.logback.LogbackApplication       LogbackApplication.java:24: Spring boot启动初始化了 126 个 Bean
+2020-05-08 15:24:06.037 ERROR 16492 --- [main] com.dyz.logback.LogbackApplication       LogbackApplication.java:29: 【SpringBootDemoLogbackApplication】启动异常：
+
+java.lang.ArithmeticException: / by zero
+	at com.dyz.logback.LogbackApplication.main(LogbackApplication.java:27)
+
+2020-05-08 15:26:31.520 ERROR 15304 --- [main] com.dyz.logback.LogbackApplication       LogbackApplication.java:24: Spring boot启动初始化了 126 个 Bean
+2020-05-08 15:26:31.527 ERROR 15304 --- [main] com.dyz.logback.LogbackApplication       LogbackApplication.java:29: 【SpringBootDemoLogbackApplication】启动异常：
+
+java.lang.ArithmeticException: / by zero
+	at com.dyz.logback.LogbackApplication.main(LogbackApplication.java:27)
+
